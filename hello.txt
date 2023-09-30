@@ -4,3 +4,6 @@ Hello world!
 second change
 
 Feature change
+
+
+Other developer's change
